@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "782982781563",
+    "project_id": "sportcbs-224ae",
+    "storage_bucket": "sportcbs-224ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782982781563:android:f4abdf3b2599ea1e3360de",
+        "android_client_info": {
+          "package_name": "com.uthm.sportcbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782982781563-39q5a18dhblsq4s69hrn7n6g9nl2qd8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDukneu1MWCVW0hGxwkfDZh_62KJcgc-QU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782982781563-39q5a18dhblsq4s69hrn7n6g9nl2qd8l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782982781563-8tfd9pvhml7d9koit4m6vg6fd6h7hf51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uthm.sportcbs.sportcbs2024"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
