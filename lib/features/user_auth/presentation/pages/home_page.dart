@@ -15,7 +15,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   int _selectedIndex = 0;
 
-  final List<String> _sports = ['Futsal','Badminton','Takraw'];
+  final List<String> _sports = ['Futsal Padu','Badminton','Takraw'];
 
   @override
   Widget build(BuildContext context) {
